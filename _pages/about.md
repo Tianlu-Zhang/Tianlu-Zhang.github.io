@@ -85,7 +85,6 @@ IEEE Transactions on Circuits and Systems for Video Technology <strong>(TCSVT)</
 [<a href="https://ieeexplore.ieee.org/abstract/document/9399460" target="_blank">paper</a>]
 [<a href="./bibs/SiamCDA.txt" target="_blank">bibtex</a>] 
 [<a href="https://github.com/Tianlu-Zhang/LSS-Dataset" target="_blank">dataset</a>] 
-[<a href="https://drive.google.com/drive/folders/1FKATzh-2FYe4ZOoFpKoMlv20kiHvyERb?usp=sharing" target="_blank">results</a>]
 </div>
 </div>
 
