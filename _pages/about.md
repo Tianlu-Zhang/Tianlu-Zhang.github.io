@@ -40,7 +40,7 @@ IEEE Transactions on Intelligent Vehicles <strong>(TIV)</strong>, 2024
 **Tianlu Zhang**, Ziniu Jin, Kurt Debattista, Qiang Zhang, Jungong Han
 
   [<a href="https://ieeexplore.ieee.org/document/10522850" target="_blank">paper</a>]
-	[<a href="./page_files/bibs/UTTF.txt" target="_blank">bibtex</a>] 
+	[<a href="./bibs/UTTF.txt" target="_blank">bibtex</a>] 
 </div>
 </div>
 
@@ -54,7 +54,7 @@ IEEE Transactions on Circuits and Systems for Video Technology <strong>(TCSVT)</
 **Tianlu Zhang**, Xiaoyi He, Qiang Jiao, Qiang Zhang, and Jungong Han 
 
 [<a href="https://ieeexplore.ieee.org/abstract/document/10472533" target="_blank">paper</a>]
-[<a href="./page_files/bibs/AMNet.txt" target="_blank">bibtex</a>] 
+[<a href="./bibs/AMNet.txt" target="_blank">bibtex</a>] 
 </div>
 </div>
 
@@ -68,7 +68,7 @@ Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognitio
 **Tianlu Zhang**, Hongyuan Guo, Qiang Jiao, Qiang Zhang, and Jungong Han
 
 [<a href="https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_Efficient_RGB-T_Tracking_via_Cross-Modality_Distillation_CVPR_2023_paper.html" target="_blank">paper</a>]
-[<a href="./page_files/bibs/CMD.txt" target="_blank">bibtex</a>] 
+[<a href="./bibs/CMD.txt" target="_blank">bibtex</a>] 
 [<a href="https://www.youtube.com/watch?v=isTrxcb1dVs" target="_blank">video</a>] 
 </div>
 </div>
@@ -83,7 +83,7 @@ IEEE Transactions on Circuits and Systems for Video Technology <strong>(TCSVT)</
 **Tianlu Zhang**, Xueru Liu, Qiang Zhang, Jungong Han
 
 [<a href="https://ieeexplore.ieee.org/abstract/document/9399460" target="_blank">paper</a>]
-[<a href="./page_files/bibs/SiamCDA.txt" target="_blank">bibtex</a>] 
+[<a href="./bibs/SiamCDA.txt" target="_blank">bibtex</a>] 
 [<a href="https://github.com/Tianlu-Zhang/LSS-Dataset" target="_blank">dataset</a>] 
 [<a href="https://drive.google.com/drive/folders/1FKATzh-2FYe4ZOoFpKoMlv20kiHvyERb?usp=sharing" target="_blank">results</a>]
 </div>
