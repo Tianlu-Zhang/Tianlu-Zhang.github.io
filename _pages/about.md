@@ -24,11 +24,13 @@ My primary research interests include computer vision and deep learning, mainly 
 # 🔥 News
 - *2024.05*: &nbsp;🎉🎉 One paper accepted by IEEE  TIV. 
 - *2024.03*: &nbsp;🎉🎉 One paper accepted by IEEE  TCSVT. 
-- *2024.03*: &nbsp;🎉🎉 One paper accepted by CVPR 2023 as a _highlight work_. This year the acceptance rate for highlights is only 2.5%.
+- *2024.03*: &nbsp;🎉🎉 One paper accepted by CVPR 2023 as a <strong>highlight work</strong>. This year the acceptance rate for highlights is only <strong>2.5%</strong>.
 - 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+You can also find my articles on <a href='https://scholar.google.com/citations?user=Q0AxuQkAAAAJ&hl'>Google Scholar</a>.
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/UTTF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Enhancing visual tracking with a unified temporal Transformer framework
