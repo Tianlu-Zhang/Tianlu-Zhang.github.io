@@ -30,7 +30,7 @@ My primary research interests include computer vision and deep learning, mainly 
 
 You can also find my articles on <a href='https://scholar.google.com/citations?user=Q0AxuQkAAAAJ&hl'>Google Scholar</a>.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIV 2024</div><img src='images/UTTF.png' alt="sym" width="230"></div></div>
+<div class='paper-box'><div align="center"><div><div class="badge">TIV 2024</div><img src='images/UTTF.png' alt="sym" width="230"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Enhancing visual tracking with a unified temporal Transformer framework
