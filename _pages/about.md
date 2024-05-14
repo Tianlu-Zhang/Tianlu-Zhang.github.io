@@ -44,6 +44,51 @@ IEEE Transactions on Intelligent Vehicles <strong>(TIV)</strong>, 2024
 </div>
 </div>
 
+<div class='paper-box'><div align="center"><div><div class="badge">TCSVT 2024</div><img src='images/AMNet.png' alt="sym" width="230"></div></div>
+<div class='paper-box-text' markdown="1">
+
+AMNet: Learning to Align Multi-modality for RGB-T Tracking
+
+IEEE Transactions on Circuits and Systems for Video Technology <strong>(TCSVT)</strong>, 2024 
+
+**Tianlu Zhang**, Xiaoyi He, Qiang Jiao, Qiang Zhang, and Jungong Han 
+
+[<a href="https://ieeexplore.ieee.org/abstract/document/10472533" target="_blank">paper</a>]
+[<a href="./page_files/bibs/AMNet.txt" target="_blank">bibtex</a>] 
+</div>
+</div>
+
+<div class='paper-box'><div align="center"><div><div class="badge">CVPR 2023</div><img src='images/UTTF.png' alt="sym" width="230"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Efficient RGB-T Tracking via Cross-Modality Distillation
+
+Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, <strong>(Highlight, Top 2.5%)</strong>, 2023 
+
+**Tianlu Zhang**, Hongyuan Guo, Qiang Jiao, Qiang Zhang, and Jungong Han
+
+[<a href="https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_Efficient_RGB-T_Tracking_via_Cross-Modality_Distillation_CVPR_2023_paper.html" target="_blank">paper</a>]
+[<a href="./page_files/bibs/CMD.txt" target="_blank">bibtex</a>] 
+[<a href="https://www.youtube.com/watch?v=isTrxcb1dVs" target="_blank">video</a>] 
+</div>
+</div>
+
+<div class='paper-box'><div align="center"><div><div class="badge">TCSVT 2022</div><img src='images/SiamCDA.png' alt="sym" width="230"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Enhancing visual tracking with a unified temporal Transformer framework
+
+IEEE Transactions on Circuits and Systems for Video Technology <strong>(TCSVT)</strong>, 2022 
+
+**Tianlu Zhang**, Xueru Liu, Qiang Zhang, Jungong Han
+
+[<a href="https://ieeexplore.ieee.org/abstract/document/9399460" target="_blank">paper</a>]
+[<a href="./page_files/bibs/SiamCDA.txt" target="_blank">bibtex</a>] 
+[<a href="https://github.com/Tianlu-Zhang/LSS-Dataset" target="_blank">dataset</a>] 
+[<a href="https://drive.google.com/drive/folders/1FKATzh-2FYe4ZOoFpKoMlv20kiHvyERb?usp=sharing" target="_blank">results</a>]
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
