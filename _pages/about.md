@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a PhD student (2018-2024) at [Xidian University](https://en.xidian.edu.cn/), and also a visiting PhD student (2023-2024) at [University of Warwick](https://warwick.ac.uk/). My supervisors are [Prof. Jungong Han](https://jungonghan.github.io) and [Prof. Qiang Zhang](https://faculty.xidian.edu.cn/ZQ2/zh_CN/zdylm/429962/list/index.htm) and [Prof. Kurt Debattista](https://warwick.ac.uk/fac/sci/wmg/about/our-people/profile?wmgid=518). Prior to that, I received my B.S. degree from [Xi'an Shiyou University](http://xsyu.ciss.org.cn/) in 2018.
+I am currently a PhD student (2018-2024) at [Xidian University](https://en.xidian.edu.cn/), and also a visiting PhD student (2023-2024) at [University of Warwick](https://warwick.ac.uk/). My supervisors are [Prof. Jungong Han](https://jungonghan.github.io), [Prof. Qiang Zhang](https://faculty.xidian.edu.cn/ZQ2/zh_CN/zdylm/429962/list/index.htm) and [Prof. Kurt Debattista](https://warwick.ac.uk/fac/sci/wmg/about/our-people/profile?wmgid=518). Prior to that, I received my B.S. degree from [Xi'an Shiyou University](http://xsyu.ciss.org.cn/) in 2018.
 
 My primary research interests include computer vision and deep learning, mainly focusing on multi-modal tracking.
 
