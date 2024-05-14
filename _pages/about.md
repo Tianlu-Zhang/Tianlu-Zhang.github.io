@@ -89,18 +89,17 @@ IEEE Transactions on Circuits and Systems for Video Technology <strong>(TCSVT)</
 </div>
 </div>
 
+# 💻 Services
+- IEEE Transactions on Neural Networks and Learning Systems (TNNLS) 
+- IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+- IEEE Transactions on Multimedia (TMM)
+- IEEE Sensors Journal
+- Neurocomputing
+- Multimedia Tools and Applications
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023* Outstanding Doctoral Dissertation Funding from School of Mechanical and Electrical Engineering, Xidian University (西安电子科技大学机电工程学院拔尖博士学位论文资助). 
+- *2023* China Electronics Technology Group Corporation-Xidian University Collaborative Innovation Scholarship (中国电子科技集团公司-西安电子科技大学协同创新奖学金). 
+- *2023* Joint Doctoral Program Funding from CSC (国家留学生基金委联合培养博士资助)
+- *2022* Excellent Doctoral Dissertation Funding from Xidian University (西安电子科技大学优秀博士学位论文资助)
+- *2021* Graduate Innovation Funding from Xidian University (西安电子科技大学研究生创新基金资助)
