@@ -43,7 +43,6 @@ IEEE Transactions on Intelligent Vehicles <strong>(TIV)</strong>, 2024
 	[<a href="./bibs/UTTF.txt" target="_blank">bibtex</a>] 
 </div>
 </div>
-
 <div class='paper-box'><div align="center"><div><div class="badge">TCSVT 2024</div><img src='images/AMNet.png' alt="sym" width="230"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -57,7 +56,6 @@ IEEE Transactions on Circuits and Systems for Video Technology <strong>(TCSVT)</
 [<a href="./bibs/AMNet.txt" target="_blank">bibtex</a>] 
 </div>
 </div>
-
 <div class='paper-box'><div align="center"><div><div class="badge">CVPR 2023</div><img src='images/UTTF.png' alt="sym" width="230"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -72,7 +70,6 @@ Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognitio
 [<a href="https://www.youtube.com/watch?v=isTrxcb1dVs" target="_blank">video</a>] 
 </div>
 </div>
-
 <div class='paper-box'><div align="center"><div><div class="badge">TCSVT 2022</div><img src='images/SiamCDA.png' alt="sym" width="230"></div></div>
 <div class='paper-box-text' markdown="1">
 
