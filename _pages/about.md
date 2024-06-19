@@ -22,14 +22,28 @@ I am currently a PhD student (2018-2024) at [Xidian University](https://en.xidia
 My primary research interests include computer vision and deep learning, mainly focusing on multi-modal tracking.
 
 # 🔥 News
+- *2024.06*: &nbsp;🎉🎉 One paper accepted by PR. 
 - *2024.05*: &nbsp;🎉🎉 One paper accepted by IEEE  TIV. 
 - *2024.03*: &nbsp;🎉🎉 One paper accepted by IEEE  TCSVT. 
-- *2024.03*: &nbsp;🎉🎉 One paper accepted by CVPR 2023 as a <strong>highlight work</strong>. This year the acceptance rate for highlights is only <strong>2.5%</strong>.
+- *2023.03*: &nbsp;🎉🎉 One paper accepted by CVPR 2023 as a <strong>highlight work</strong>. This year the acceptance rate for highlights is only <strong>2.5%</strong>.
 - 
 # 📝 Publications 
 
 You can also find my articles on <a href='https://scholar.google.com/citations?user=Q0AxuQkAAAAJ&hl'>Google Scholar</a>.
 
+<div class='paper-box'><div align="center"><div><div class="badge">TIV 2024</div><img src='images/SiamTIH.png' alt="sym" width="230"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Exploring Target-related Information with Reliable Global Pixel Relationships for Robust RGB-T Tracking
+
+Pattern Recognition <strong>(PR)</strong>, 2024 
+
+**Tianlu Zhang**, Xiaoyi He, Yongjiang Luo, Qiang Zhang, Jungong Han
+
+  [<a href="" target="_blank">paper</a>]
+	[<a href="" target="_blank">bibtex</a>] 
+</div>
+</div>
 <div class='paper-box'><div align="center"><div><div class="badge">TIV 2024</div><img src='images/UTTF.png' alt="sym" width="230"></div></div>
 <div class='paper-box-text' markdown="1">
 
