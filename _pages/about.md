@@ -70,7 +70,7 @@ IEEE Transactions on Circuits and Systems for Video Technology <strong>(TCSVT)</
 [<a href="./bibs/AMNet.txt" target="_blank">bibtex</a>] 
 </div>
 </div>
-<div class='paper-box'><div align="center"><div><div class="badge">CVPR 2023</div><img src='images/UTTF.png' alt="sym" width="230"></div></div>
+<div class='paper-box'><div align="center"><div><div class="badge">CVPR 2023</div><img src='images/CMD.png' alt="sym" width="230"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Efficient RGB-T Tracking via Cross-Modality Distillation
