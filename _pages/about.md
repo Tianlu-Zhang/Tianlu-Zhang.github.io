@@ -40,8 +40,9 @@ Pattern Recognition <strong>(PR)</strong>, 2024
 
 **Tianlu Zhang**, Xiaoyi He, Yongjiang Luo, Qiang Zhang, Jungong Han
 
-  [<a href="https://www.sciencedirect.com/science/article/pii/S0031320324004588?via%3Dihub" target="_blank">paper</a>]
-	[<a href="" target="_blank">bibtex</a>] 
+[<a href="https://www.sciencedirect.com/science/article/pii/S0031320324004588?via%3Dihub" target="_blank">paper</a>]
+[<a href="./bibs/SiamTIH.bib" target="_blank">bibtex</a>] 
+[<a href="https://github.com/Tianlu-Zhang/SiamTIH" target="_blank">code</a>] 
 </div>
 </div>
 <div class='paper-box'><div align="center"><div><div class="badge">TIV 2024</div><img src='images/UTTF.png' alt="sym" width="230"></div></div>
@@ -53,8 +54,8 @@ IEEE Transactions on Intelligent Vehicles <strong>(TIV)</strong>, 2024
 
 **Tianlu Zhang**, Ziniu Jin, Kurt Debattista, Qiang Zhang, Jungong Han
 
-  [<a href="https://ieeexplore.ieee.org/document/10522850" target="_blank">paper</a>]
-	[<a href="./bibs/UTTF.txt" target="_blank">bibtex</a>] 
+[<a href="https://ieeexplore.ieee.org/document/10522850" target="_blank">paper</a>]
+[<a href="./bibs/UTTF.txt" target="_blank">bibtex</a>] 
 </div>
 </div>
 <div class='paper-box'><div align="center"><div><div class="badge">TCSVT 2024</div><img src='images/AMNet.png' alt="sym" width="230"></div></div>
