@@ -40,7 +40,7 @@ Pattern Recognition <strong>(PR)</strong>, 2024
 
 **Tianlu Zhang**, Xiaoyi He, Yongjiang Luo, Qiang Zhang, Jungong Han
 
-  [<a href="" target="_blank">paper</a>]
+  [<a href="https://www.sciencedirect.com/science/article/pii/S0031320324004588?via%3Dihub" target="_blank">paper</a>]
 	[<a href="" target="_blank">bibtex</a>] 
 </div>
 </div>
