@@ -27,10 +27,24 @@ My primary research interests include computer vision and deep learning, mainly 
 - *2024.05*: &nbsp;🎉🎉 One paper accepted by IEEE  TIV. 
 - *2024.03*: &nbsp;🎉🎉 One paper accepted by IEEE  TCSVT. 
 - *2023.03*: &nbsp;🎉🎉 One paper accepted by CVPR 2023 as a <strong>highlight work</strong>. This year the acceptance rate for highlights is only <strong>2.5%</strong>.
-- 
+  
 # 📝 Publications 
 
 You can also find my articles on <a href='https://scholar.google.com/citations?user=Q0AxuQkAAAAJ&hl'>Google Scholar</a>.
+
+<div class='paper-box'><div align="center"><div><div class="badge">TIP 2024</div><img src='images/MMSTC.png' alt="sym" width="230"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Exploring Multi-modal Spatial-Temporal Contexts for High-performance RGB-T Tracking
+
+IEEE Transactions on Image Processing <strong>(TIP)</strong>, 2024 
+
+**Tianlu Zhang**, Qiang Jiao, Qiang Zhang, Jungong Han
+
+[<a href="" target="_blank">paper</a>]
+[<a href="" target="_blank">bibtex</a>] 
+</div>
+</div>
 
 <div class='paper-box'><div align="center"><div><div class="badge">PR 2024</div><img src='images/SiamTIH.png' alt="sym" width="230"></div></div>
 <div class='paper-box-text' markdown="1">
