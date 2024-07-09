@@ -124,8 +124,8 @@ IEEE Transactions on Circuits and Systems for Video Technology <strong>(TCSVT)</
 - Multimedia Tools and Applications
 
 # 🎖 Honors and Awards
-- *2023* Outstanding Doctoral Dissertation Funding from School of Mechanical and Electrical Engineering, Xidian University (西安电子科技大学机电工程学院拔尖博士学位论文资助). 
-- *2023* China Electronics Technology Group Corporation-Xidian University Collaborative Innovation Scholarship (中国电子科技集团公司-西安电子科技大学协同创新奖学金). 
+- *2023* Outstanding Doctoral Dissertation Funding from School of Mechanical and Electrical Engineering, Xidian University (西安电子科技大学机电工程学院拔尖博士学位论文资助) 
+- *2023* China Electronics Technology Group Corporation-Xidian University Collaborative Innovation Scholarship (中国电子科技集团公司-西安电子科技大学协同创新奖学金)
 - *2023* Joint Doctoral Program Funding from CSC (国家留学生基金委联合培养博士资助)
 - *2022* Excellent Doctoral Dissertation Funding from Xidian University (西安电子科技大学优秀博士学位论文资助)
 - *2021* Graduate Innovation Funding from Xidian University (西安电子科技大学研究生创新基金资助)
