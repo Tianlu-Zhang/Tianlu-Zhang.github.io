@@ -22,6 +22,7 @@ I am currently a PhD student (2018-2024) at [Xidian University](https://en.xidia
 My primary research interests include computer vision and deep learning, mainly focusing on multi-modal tracking.
 
 # 🔥 News
+- *2024.07*: &nbsp;🎉🎉 One paper accepted by IEEE TIP. 
 - *2024.06*: &nbsp;🎉🎉 One paper accepted by PR. 
 - *2024.05*: &nbsp;🎉🎉 One paper accepted by IEEE  TIV. 
 - *2024.03*: &nbsp;🎉🎉 One paper accepted by IEEE  TCSVT. 
