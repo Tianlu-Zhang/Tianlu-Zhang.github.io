@@ -103,7 +103,7 @@ Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognitio
 <div class='paper-box'><div align="center"><div><div class="badge">TCSVT 2022</div><img src='images/SiamCDA.png' alt="sym" width="230"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Enhancing visual tracking with a unified temporal Transformer framework
+SiamCDA: Complementarity- and distractor-aware RGB-T tracking based on Siamese network
 
 IEEE Transactions on Circuits and Systems for Video Technology <strong>(TCSVT)</strong>, 2022 
 
