@@ -41,8 +41,8 @@ IEEE Transactions on Image Processing <strong>(TIP)</strong>, 2024
 
 **Tianlu Zhang**, Qiang Jiao, Qiang Zhang, Jungong Han
 
-[<a href="" target="_blank">paper</a>]
-[<a href="" target="_blank">bibtex</a>] 
+[<a href="https://ieeexplore.ieee.org/document/10605602" target="_blank">paper</a>]
+[<a href="./bibs/MMSTC.bib" target="_blank">bibtex</a>] 
 </div>
 </div>
 
