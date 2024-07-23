@@ -32,7 +32,6 @@ My primary research interests include computer vision and deep learning, mainly 
 
 You can also find my articles on <a href='https://scholar.google.com/citations?user=Q0AxuQkAAAAJ&hl'>Google Scholar</a>.
 
-2024 / in press
 <div class='paper-box'><div align="center"><div><div class="badge">TIP 2024</div><img src='images/MMSTC.png' alt="sym" width="230"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -81,8 +80,6 @@ AMNet: Learning to Align Multi-modality for RGB-T Tracking
 
 IEEE Transactions on Circuits and Systems for Video Technology <strong>(TCSVT)</strong>, 2024 
 
-2023
-
 **Tianlu Zhang**, Xiaoyi He, Qiang Jiao, Qiang Zhang, and Jungong Han 
 
 [<a href="https://ieeexplore.ieee.org/abstract/document/10472533" target="_blank">paper</a>]
@@ -95,8 +92,6 @@ IEEE Transactions on Circuits and Systems for Video Technology <strong>(TCSVT)</
 Efficient RGB-T Tracking via Cross-Modality Distillation
 
 Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, <strong>(Highlight, Top 2.5%)</strong>, 2023 
-
-2022
 
 **Tianlu Zhang**, Hongyuan Guo, Qiang Jiao, Qiang Zhang, and Jungong Han
 
