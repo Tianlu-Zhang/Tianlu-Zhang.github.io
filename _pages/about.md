@@ -28,7 +28,7 @@ My primary research interests include computer vision and deep learning, mainly 
 - *2024.03*: &nbsp;🎉🎉 One paper accepted by IEEE  TCSVT. 
 - *2023.03*: &nbsp;🎉🎉 One paper accepted by CVPR 2023 as a <strong>highlight work</strong>. This year the acceptance rate for highlights is only <strong>2.5%</strong>.
   
-# 📝 Publications 
+# 📝 Selected Publications 
 
 You can also find my articles on <a href='https://scholar.google.com/citations?user=Q0AxuQkAAAAJ&hl'>Google Scholar</a>.
 
