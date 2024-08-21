@@ -1,0 +1,8 @@
+@InProceedings{Zhang_2023_CVPR,
+    author    = {Zhang, Tianlu and Guo, Hongyuan and Jiao, Qiang and Zhang, Qiang and Han, Jungong},
+    title     = {Efficient RGB-T Tracking via Cross-Modality Distillation},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2023},
+    pages     = {5404-5413}
+}

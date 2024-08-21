@@ -1,0 +1,10 @@
+@ARTICLE{10522850,
+  author={Zhang, Tianlu and Jin, Ziniu and Debattista, Kurt and Zhang, Qiang and Han, Jungong},
+  journal={IEEE Transactions on Intelligent Vehicles}, 
+  title={Enhancing visual tracking with a unified temporal Transformer framework}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-15},
+  keywords={Target tracking;Transformers;Trajectory;Visualization;Feature extraction;Decoding;Correlation;Object tracking;temporal information;Transformer},
+  doi={10.1109/TIV.2024.3398405}}

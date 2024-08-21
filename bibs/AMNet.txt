@@ -1,0 +1,10 @@
+@ARTICLE{10472533,
+  author={Zhang, Tianlu and He, Xiaoyi and Jiao, Qiang and Zhang, Qiang and Han, Jungong},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={AMNet: Learning to Align Multi-modality for RGB-T Tracking}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Target tracking;Feature extraction;Imaging;Cameras;Circuits and systems;Head;Transformers;RGB-T tracking;Spatial misalignment;Information differences;Divide-and-conquer fusion},
+  doi={10.1109/TCSVT.2024.3377471}}

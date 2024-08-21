@@ -1,0 +1,10 @@
+@ARTICLE{9399460,
+  author={Zhang, Tianlu and Liu, Xueru and Zhang, Qiang and Han, Jungong},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={SiamCDA: Complementarity- and Distractor-Aware RGB-T Tracking Based on Siamese Network}, 
+  year={2022},
+  volume={32},
+  number={3},
+  pages={1403-1417},
+  keywords={Target tracking;Feature extraction;Proposals;Videos;Object tracking;Task analysis;Real-time systems;RGB-T tracking;siamese network;complementarity-aware fusion;distractor-aware region proposal selection;large-scale synthetic dataset},
+  doi={10.1109/TCSVT.2021.3072207}}
