@@ -5,7 +5,7 @@ body {
 	max-width: 950px;
     overflow-y: scroll;
 	overflow:auto;
-    font-family: Times; /*georgia, arial, serif*/
+    font-family: arial; /*georgia, arial, serif*/
 }
 
 div.central_body {
